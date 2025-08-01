@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**Juliana762/Juliana762** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">¡Hola! 👋 Soy Juliana Pulgarín</h1>
 <h3 align="center">Estudiante de Análisis y Desarrollo de Software</h3>
 
@@ -58,5 +53,4 @@
 Puedes ver mi trabajo y seguir mi progreso aquí en GitHub. ¡Estoy abierta a colaborar y aprender en equipo!
 
 ---
-
 
